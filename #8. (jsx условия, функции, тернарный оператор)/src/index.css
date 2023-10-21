@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: red;
+}
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #36c190;
+}
